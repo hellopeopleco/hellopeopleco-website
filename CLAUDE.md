@@ -4,7 +4,7 @@ Plain HTML/CSS static site for Julz Parkin's leadership business. No frameworks,
 
 ## Hard rules
 - **Photos and logos: never edit, filter, crop, recompress or convert the files in `images/`.** Size and position with HTML/CSS only. Julz may swap in higher-resolution versions, so keep file names easy to replace.
-- **Colours (only these):** orange #ff4800, peach #ffd2bf, butter yellow #fff6e6 (page background), blue #c2dce1, mustard #e2ab1e (small accents only), body text #2a1710.
+- **Colours (only these):** orange #ff4800, peach #ffd2bf, butter yellow #fff6e6 (page background), blue #c2dce1, mustard #e2ab1e (small accents only), body text chocolate brown #5a3626 (softer than the original #2a1710, at Julz's request).
 - Headings: orange on butter yellow/peach, cream on orange, dark brown only on blue. **No brown or maroon headings, no brown backgrounds, never brown next to mustard, no text on mustard.** No green.
 - Fonts: headings Tan Tangkiwood (Fraunces stand-in until the font file and web licence are added), body Montserrat.
 - Buttons: orange with cream text (primary); cream with orange text and orange border (secondary).

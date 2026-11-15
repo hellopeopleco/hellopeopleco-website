@@ -16,6 +16,19 @@
     });
   }
 
+  // Silent video loops: play only while on screen, and not at all if the visitor prefers reduced motion
+  var vids = document.querySelectorAll('.loop video');
+  var calm = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (vids.length && !calm && 'IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) {
+        if (en.isIntersecting) { var p = en.target.play(); if (p && p.catch) p.catch(function () {}); }
+        else { en.target.pause(); }
+      });
+    }, { threshold: 0.35 });
+    vids.forEach(function (v) { io.observe(v); });
+  }
+
   document.querySelectorAll('form.form').forEach(function (form) {
     form.addEventListener('submit', function (e) {
       e.preventDefault();

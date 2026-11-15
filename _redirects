@@ -1,0 +1,8 @@
+# Old Wix addresses -> new pages (verify the old paths against the live Wix site before launch)
+/workshops              /teams              301
+/programs-workshops     /teams              301
+/leadershipcoaching     /coaching           301
+/leadership-coaching    /coaching           301
+/disc                   /coaching           301
+/waitlist               /hello-leadership#waitlist   301
+/hello-leadership-waitlist  /hello-leadership#waitlist   301

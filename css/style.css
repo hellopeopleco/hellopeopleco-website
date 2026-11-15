@@ -200,6 +200,11 @@ em{font-style:italic;text-decoration:underline;text-decoration-color:var(--musta
   .hero-grid{gap:32px}
 }
 @media (max-width:700px){
+  .hero--home .wrap{padding-top:0;padding-bottom:40px}
+  .hero--home .hero-grid{gap:0}
+  .hero--home .hero-photo{order:-1;flex:1 1 100%;margin:0 -20px}
+  .hero--home .hero-photo .photo{height:min(52svh,460px);object-fit:cover;object-position:50% 10%;border-radius:0;border-width:0 0 2px 0}
+  .hero--home .hero-text{flex:1 1 100%;position:relative;margin:-36px -20px 0;padding:28px 20px 0;background:var(--cream);border-radius:28px 28px 0 0}
   body{font-size:16px}
   .wrap{padding:56px 20px;gap:28px}
   .wrap--tight{padding-top:48px;padding-bottom:48px}

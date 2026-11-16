@@ -116,6 +116,7 @@ em{font-style:italic;text-decoration:underline;text-decoration-color:var(--musta
 .card--blue{background:var(--blue)}
 .card--orange{background:var(--orange);color:var(--cream)}
 .card--lg{padding:36px}
+.card--vcenter{justify-content:center}
 .card--sm{padding:28px}
 .card--row{flex-direction:row;align-items:flex-start;gap:16px}
 .card--bare{background:transparent;border:0;padding:8px 0}

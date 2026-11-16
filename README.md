@@ -14,7 +14,6 @@ Shared files: `css/style.css` (all styling), `js/site.js` (mobile menu + forms),
 
 ## Still to do before launch
 - Create the Formspree forms and replace `myewepaq` (hello-leadership.html) and `mljbjlkk` (every page's contact band) with the real form IDs.
-- Add the Tan Tangkiwood font file and web licence (headings use Fraunces as a stand-in; see `--font-head` in `css/style.css`).
 - Fill in the two `TODO` comments: the HELLO Leadership program outline and a 1:1 coaching testimonial.
 - Confirm the old Wix page addresses in `_redirects`.
 

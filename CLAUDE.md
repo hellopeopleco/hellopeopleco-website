@@ -6,7 +6,7 @@ Plain HTML/CSS static site for Julz Parkin's leadership business. No frameworks,
 - **Photos and logos: never edit, filter, crop, recompress or convert the files in `images/`.** Size and position with HTML/CSS only. Julz may swap in higher-resolution versions, so keep file names easy to replace.
 - **Colours (only these):** orange #ff4800, peach #ffd2bf, butter yellow #fff6e6 (page background), blue #c2dce1, mustard #e2ab1e (small accents only), body text chocolate brown #5a3626 (softer than the original #2a1710, at Julz's request).
 - Headings: orange on butter yellow/peach, cream on orange, dark brown only on blue. **No brown or maroon headings, no brown backgrounds, never brown next to mustard, no text on mustard.** No green.
-- Fonts: headings Tan Tangkiwood (Fraunces stand-in until the font file and web licence are added), body Montserrat.
+- Fonts: headings Fraunces (final choice for the web, because it has a proper italic; Tan Tangkiwood is for print and brand materials only), body Montserrat.
 - Buttons: orange with cream text (primary); cream with orange text and orange border (secondary).
 - Public email is info@hellopeopleco.com.au. "Book a call" goes to https://calendar.app.google/rN4LzEFnqo8xVcpdA. Forms use Formspree. No payments on the site.
 - The Google Calendar link, Formspree IDs and email address appear on several pages: change them everywhere.

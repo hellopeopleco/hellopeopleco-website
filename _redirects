@@ -1,8 +1,16 @@
-# Old Wix addresses -> new pages (verify the old paths against the live Wix site before launch)
-/workshops              /teams              301
-/programs-workshops     /teams              301
-/leadershipcoaching     /coaching           301
-/leadership-coaching    /coaching           301
-/disc                   /coaching           301
-/waitlist               /hello-leadership#waitlist   301
-/hello-leadership-waitlist  /hello-leadership#waitlist   301
+# Old Wix addresses -> new pages.
+# /helloleadership is confirmed. The rest are best guesses from the Wix page names:
+# check them against https://www.hellopeopleco.com.au/sitemap.xml before the Wix site goes offline.
+/helloleadership              /hello-leadership              301
+/hello-leadership-waitlist    /hello-leadership#waitlist     301
+/helloleadershipwaitlist      /hello-leadership#waitlist     301
+/waitlist                     /hello-leadership#waitlist     301
+/programs-workshops           /teams                         301
+/programs-and-workshops       /teams                         301
+/workshops                    /teams                         301
+/leadership-coaching          /coaching                      301
+/leadershipcoaching           /coaching                      301
+/disc-behaviour-profiles      /coaching                      301
+/disc                         /coaching                      301
+/questions                    /contact                       301
+/book-online                  /contact                       301
